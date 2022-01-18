@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" modified="2021-06-03T12:07:54.311Z" agent="5.0 (Macintosh)" etag="QVq3yuWAFXiN3rBD3BkJ" version="14.7.4" type="github">
+  <diagram id="eu-auPc82La0uvWwsgfQ" name="Page-1">
+    <mxGraphModel dx="1666" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K5P028DtRYExrMUOKOr8-1" value="Architectural structure " style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="1388" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-2" value="&lt;b&gt;Hradware of MPS ventilatore&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="611.5" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-3" value="Main control borad " style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="95" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="K5P028DtRYExrMUOKOr8-1" source="K5P028DtRYExrMUOKOr8-2" target="K5P028DtRYExrMUOKOr8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-5" value="BLDC Motor control" style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="390" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="K5P028DtRYExrMUOKOr8-1" source="K5P028DtRYExrMUOKOr8-2" target="K5P028DtRYExrMUOKOr8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="K5P028DtRYExrMUOKOr8-1" source="K5P028DtRYExrMUOKOr8-3" target="K5P028DtRYExrMUOKOr8-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2479.5" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-8" value="MPS controller [MP6710]" style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="20" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="K5P028DtRYExrMUOKOr8-1" source="K5P028DtRYExrMUOKOr8-3" target="K5P028DtRYExrMUOKOr8-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2479.5" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-10" value="MPS DCDC Power modules [e.g.MPM54304]" style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="160" y="220" width="110" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="K5P028DtRYExrMUOKOr8-1" source="K5P028DtRYExrMUOKOr8-5" target="K5P028DtRYExrMUOKOr8-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2311.5" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-12" value="MPS motor driver module [MMP742077-24-C]" style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="310" y="220" width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="K5P028DtRYExrMUOKOr8-1" source="K5P028DtRYExrMUOKOr8-5" target="K5P028DtRYExrMUOKOr8-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2311.5" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-14" value="MPS smart motor [EVKT-MSM942077-24] " style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="460" y="220.75" width="110" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="K5P028DtRYExrMUOKOr8-1" source="K5P028DtRYExrMUOKOr8-2" target="K5P028DtRYExrMUOKOr8-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1793.5" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-16" value="E-Stop" style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="680" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="K5P028DtRYExrMUOKOr8-1" source="K5P028DtRYExrMUOKOr8-2" target="K5P028DtRYExrMUOKOr8-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1485.5" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-18" value="Power switch" style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="876" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="K5P028DtRYExrMUOKOr8-1" source="K5P028DtRYExrMUOKOr8-2" target="K5P028DtRYExrMUOKOr8-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1337.5" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-20" value="User interface" style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="1128" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="K5P028DtRYExrMUOKOr8-1" source="K5P028DtRYExrMUOKOr8-20" target="K5P028DtRYExrMUOKOr8-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-889.5" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-22" value="Display: monitor, setpoins, mode" style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="988" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="K5P028DtRYExrMUOKOr8-1" source="K5P028DtRYExrMUOKOr8-20" target="K5P028DtRYExrMUOKOr8-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-889.5" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-24" value="Buttons: silence alarm, setting" style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="1128" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" parent="K5P028DtRYExrMUOKOr8-1" source="K5P028DtRYExrMUOKOr8-20" target="K5P028DtRYExrMUOKOr8-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-26" value="Selection swctch: Volume, assist mode" style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="1268" y="221.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" target="K5P028DtRYExrMUOKOr8-28" source="K5P028DtRYExrMUOKOr8-16" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-28" value="E-Stop" style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="610" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" edge="1" target="K5P028DtRYExrMUOKOr8-30" source="K5P028DtRYExrMUOKOr8-16" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="171.5" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K5P028DtRYExrMUOKOr8-30" value="E-Stop" style="whiteSpace=wrap;html=1;" vertex="1" parent="K5P028DtRYExrMUOKOr8-1">
+          <mxGeometry x="750" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

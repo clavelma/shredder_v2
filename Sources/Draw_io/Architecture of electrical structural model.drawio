@@ -1,0 +1,188 @@
+<mxfile host="app.diagrams.net" modified="2022-01-07T13:14:44.223Z" agent="5.0 (Macintosh)" etag="xg2UaAY6wrztgTxFOIkQ" version="16.2.2" type="github">
+  <diagram id="YKyQOGoXq14R0Jtugf9V" name="Page-1">
+    <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-3" value="Architectural structure of PX4 Vision" style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" parent="1" vertex="1">
+          <mxGeometry x="80" y="220" width="2380" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-4" value="Components of PX4 Vision " style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="1210" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-5" value="Flight controller Pixhawk4" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="300" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-4" target="l1xe1RYbUUbZskDPg_gc-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-7" value="power module Holybro" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="790" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-4" target="l1xe1RYbUUbZskDPg_gc-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-4" target="l1xe1RYbUUbZskDPg_gc-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-22424.600000000002" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-10" value="Pixhawk4 GPS" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="1140" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-4" target="l1xe1RYbUUbZskDPg_gc-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-22284.600000000002" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-12" value="Carrier borad Holybro RC03" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="1630" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-4" target="l1xe1RYbUUbZskDPg_gc-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-22074.600000000002" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-14" value="Companion computer" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="2120" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-5" target="l1xe1RYbUUbZskDPg_gc-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-21634.600000000002" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-16" value="FMUv5/STM32F7 MCU" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="20" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-7" target="l1xe1RYbUUbZskDPg_gc-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-19530.6" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-18" value="Dual 5V BEC" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="720" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-10" target="l1xe1RYbUUbZskDPg_gc-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-17204.8" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-20" value="IST8310 Compass" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="1000" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-12" target="l1xe1RYbUUbZskDPg_gc-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-14577.8" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-22" value="ESP8266 WiFi Telemetry" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="1420" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-5" target="l1xe1RYbUUbZskDPg_gc-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-14295.8" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-24" value="216MHz/512KB RAM" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="160" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-5" target="l1xe1RYbUUbZskDPg_gc-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-13144" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-26" value="IMU: ICM-20689/BMI055" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="300" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-5" target="l1xe1RYbUUbZskDPg_gc-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-11978.8" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-28" value="Baro: MS5611" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="440" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-5" target="l1xe1RYbUUbZskDPg_gc-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10706.599999999999" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-30" value="Mag: IST83I0" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="580" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-7" target="l1xe1RYbUUbZskDPg_gc-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-8794" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-32" value="Power monitor" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="860" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-10" target="l1xe1RYbUUbZskDPg_gc-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-7440" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-34" value="Main LED" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="1140" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-35" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-10" target="l1xe1RYbUUbZskDPg_gc-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-6359" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-36" value="Buzzer" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="1280" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-12" target="l1xe1RYbUUbZskDPg_gc-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5040" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-38" value="2x USB 2.0" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="1560" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-12" target="l1xe1RYbUUbZskDPg_gc-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3987" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-40" value="2x UAR " style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="1700" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-12" target="l1xe1RYbUUbZskDPg_gc-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2871" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-42" value="On-board BEC for Up Core" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="1840" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-14" target="l1xe1RYbUUbZskDPg_gc-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2134" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-44" value="Intel Atom x(-Z8350 Quad core CPU" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="1980" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-45" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-14" target="l1xe1RYbUUbZskDPg_gc-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-46" value="2MB Cache 1.44GHz" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="2120" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-47" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="l1xe1RYbUUbZskDPg_gc-3" source="l1xe1RYbUUbZskDPg_gc-14" target="l1xe1RYbUUbZskDPg_gc-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1023" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1xe1RYbUUbZskDPg_gc-48" value="4GB RAM/ 64GB eMMC" style="whiteSpace=wrap;html=1;" parent="l1xe1RYbUUbZskDPg_gc-3" vertex="1">
+          <mxGeometry x="2260" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

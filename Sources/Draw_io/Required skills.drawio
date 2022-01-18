@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2022-01-07T10:04:10.072Z" agent="5.0 (Macintosh)" etag="qtuubcIlDXrzhkBYZ8AK" version="16.2.2" type="github">
+  <diagram id="FOgIm4A6qhl8_S7eChMp" name="Page-1">
+    <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="130" y="250" width="450" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="HrhotSNz6pBHQIBptUVQ-1" vertex="1">
+          <mxGeometry width="450" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-3" value="Skill name" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="HrhotSNz6pBHQIBptUVQ-2" vertex="1">
+          <mxGeometry width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-4" value="Description" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="HrhotSNz6pBHQIBptUVQ-2" vertex="1">
+          <mxGeometry x="140" width="310" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-7" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="HrhotSNz6pBHQIBptUVQ-1" vertex="1">
+          <mxGeometry y="65" width="450" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-8" value="Skill 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="HrhotSNz6pBHQIBptUVQ-7" vertex="1">
+          <mxGeometry width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="HrhotSNz6pBHQIBptUVQ-7" vertex="1">
+          <mxGeometry x="140" width="310" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-12" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="HrhotSNz6pBHQIBptUVQ-1" vertex="1">
+          <mxGeometry y="130" width="450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-13" value="Skill 2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="HrhotSNz6pBHQIBptUVQ-12" vertex="1">
+          <mxGeometry width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="HrhotSNz6pBHQIBptUVQ-12" vertex="1">
+          <mxGeometry x="140" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="HrhotSNz6pBHQIBptUVQ-1" vertex="1">
+          <mxGeometry y="200" width="450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-18" value="Skill 3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="HrhotSNz6pBHQIBptUVQ-17" vertex="1">
+          <mxGeometry width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="HrhotSNz6pBHQIBptUVQ-17" vertex="1">
+          <mxGeometry x="140" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-22" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="HrhotSNz6pBHQIBptUVQ-1" vertex="1">
+          <mxGeometry y="270" width="450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-23" value="Skill 4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="HrhotSNz6pBHQIBptUVQ-22" vertex="1">
+          <mxGeometry width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HrhotSNz6pBHQIBptUVQ-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="HrhotSNz6pBHQIBptUVQ-22" vertex="1">
+          <mxGeometry x="140" width="310" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

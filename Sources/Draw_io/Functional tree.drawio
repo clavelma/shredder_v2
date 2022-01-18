@@ -1,0 +1,140 @@
+<mxfile host="app.diagrams.net" modified="2022-01-07T09:38:22.826Z" agent="5.0 (Macintosh)" etag="JHAcTtaCmAKZ6l7SOnFI" version="16.2.2" type="github">
+  <diagram id="LsfyjRncQt8pF9GGEPc4" name="Page-1">
+    <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="avlfCxi6omsGH8i8exhW-2" value="physical requirement" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+          <mxGeometry x="877" y="20" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-2" source="avlfCxi6omsGH8i8exhW-4" target="avlfCxi6omsGH8i8exhW-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;protect&amp;nbsp; the quality of food&lt;/div&gt;" treeRoot="1" id="avlfCxi6omsGH8i8exhW-4">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-2" vertex="1">
+            <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="avlfCxi6omsGH8i8exhW-5" value="Refrigerator" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-2" vertex="1">
+          <mxGeometry x="90" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-6" value="Functional tree" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
+          <mxGeometry x="470" y="300" width="1100" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-8" target="avlfCxi6omsGH8i8exhW-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-8" value="&amp;nbsp;Preserve the cold food" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="550" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-9" value="&lt;div&gt;Cool down&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="380" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-8" target="avlfCxi6omsGH8i8exhW-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="860" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-11" value="&lt;div&gt;Preserve the temperature&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="820" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-9" target="avlfCxi6omsGH8i8exhW-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="860" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-13" value="Heat rejection" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="380" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-9" target="avlfCxi6omsGH8i8exhW-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="940" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-15" value="&lt;div&gt;Vapor constriction &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="90" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-9" target="avlfCxi6omsGH8i8exhW-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="940" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-17" value="Evaporation" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="597" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-11" target="avlfCxi6omsGH8i8exhW-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="860" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-19" value="&lt;div&gt;Cold air circulation&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="750" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-11" target="avlfCxi6omsGH8i8exhW-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="860" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-21" value="Ambient temperature sensing " style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="930" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-15" target="avlfCxi6omsGH8i8exhW-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-23" value="&amp;nbsp;Gaz compressing" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="10" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-15" target="avlfCxi6omsGH8i8exhW-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-25" value="&lt;div&gt;pressure controlling&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="180" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-13" target="avlfCxi6omsGH8i8exhW-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-27" value="Condense" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="320" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-13" target="avlfCxi6omsGH8i8exhW-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-29" value="Liquid flow controlling" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="460" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-17" target="avlfCxi6omsGH8i8exhW-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-31" value="Evaporate" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="597" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-32" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-19" target="avlfCxi6omsGH8i8exhW-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-33" value="&lt;div&gt;To measure temperature&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="750" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" parent="avlfCxi6omsGH8i8exhW-6" source="avlfCxi6omsGH8i8exhW-21" target="avlfCxi6omsGH8i8exhW-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avlfCxi6omsGH8i8exhW-35" value="Control start-stop" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="avlfCxi6omsGH8i8exhW-6" vertex="1">
+          <mxGeometry x="930" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

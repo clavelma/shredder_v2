@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" modified="2021-06-03T12:11:04.361Z" agent="5.0 (Macintosh)" etag="HW6YNvEYtQp_BUVXSzOE" version="14.7.4" type="github">
+  <diagram id="PafDu9gbkwaQ6fXAbo-y" name="Page-1">
+    <mxGraphModel dx="1666" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-1" value="Architectural structure of MPS ventilator" style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" parent="1" vertex="1">
+          <mxGeometry x="40" y="410" width="870" height="282" as="geometry" />
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-2" value="&lt;b&gt;Hradware&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="mM-ojXZiUKRPn2hI_IP4-1" vertex="1">
+          <mxGeometry x="387.5" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-3" value="Component 1" style="whiteSpace=wrap;html=1;" parent="mM-ojXZiUKRPn2hI_IP4-1" vertex="1">
+          <mxGeometry x="95" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="mM-ojXZiUKRPn2hI_IP4-1" source="mM-ojXZiUKRPn2hI_IP4-2" target="mM-ojXZiUKRPn2hI_IP4-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-5" value="Component 2" style="whiteSpace=wrap;html=1;" parent="mM-ojXZiUKRPn2hI_IP4-1" vertex="1">
+          <mxGeometry x="390" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="mM-ojXZiUKRPn2hI_IP4-1" source="mM-ojXZiUKRPn2hI_IP4-2" target="mM-ojXZiUKRPn2hI_IP4-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="mM-ojXZiUKRPn2hI_IP4-1" source="mM-ojXZiUKRPn2hI_IP4-3" target="mM-ojXZiUKRPn2hI_IP4-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2112" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-8" value="Sub-component 1.1 " style="whiteSpace=wrap;html=1;" parent="mM-ojXZiUKRPn2hI_IP4-1" vertex="1">
+          <mxGeometry x="20" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="mM-ojXZiUKRPn2hI_IP4-1" source="mM-ojXZiUKRPn2hI_IP4-3" target="mM-ojXZiUKRPn2hI_IP4-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2112" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-10" value="Sub-component 1.2 " style="whiteSpace=wrap;html=1;" parent="mM-ojXZiUKRPn2hI_IP4-1" vertex="1">
+          <mxGeometry x="160" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="mM-ojXZiUKRPn2hI_IP4-1" source="mM-ojXZiUKRPn2hI_IP4-5" target="mM-ojXZiUKRPn2hI_IP4-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1944" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-12" value="Sub-component 2.1&amp;nbsp; " style="whiteSpace=wrap;html=1;" parent="mM-ojXZiUKRPn2hI_IP4-1" vertex="1">
+          <mxGeometry x="310" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="mM-ojXZiUKRPn2hI_IP4-1" source="mM-ojXZiUKRPn2hI_IP4-5" target="mM-ojXZiUKRPn2hI_IP4-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1944" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-14" value="Sub-component 2.2" style="whiteSpace=wrap;html=1;" parent="mM-ojXZiUKRPn2hI_IP4-1" vertex="1">
+          <mxGeometry x="460" y="220" width="110" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="mM-ojXZiUKRPn2hI_IP4-1" source="mM-ojXZiUKRPn2hI_IP4-2" target="mM-ojXZiUKRPn2hI_IP4-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-970" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-20" value="Component 3" style="whiteSpace=wrap;html=1;" parent="mM-ojXZiUKRPn2hI_IP4-1" vertex="1">
+          <mxGeometry x="680" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="mM-ojXZiUKRPn2hI_IP4-1" source="mM-ojXZiUKRPn2hI_IP4-20" target="mM-ojXZiUKRPn2hI_IP4-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-522" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-24" value="Sub-component 3.1" style="whiteSpace=wrap;html=1;" parent="mM-ojXZiUKRPn2hI_IP4-1" vertex="1">
+          <mxGeometry x="610" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="mM-ojXZiUKRPn2hI_IP4-1" source="mM-ojXZiUKRPn2hI_IP4-20" target="mM-ojXZiUKRPn2hI_IP4-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369.5" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mM-ojXZiUKRPn2hI_IP4-26" value="Sub-component 3.2" style="whiteSpace=wrap;html=1;" parent="mM-ojXZiUKRPn2hI_IP4-1" vertex="1">
+          <mxGeometry x="750" y="221.5" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

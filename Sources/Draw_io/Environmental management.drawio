@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2022-01-07T10:34:09.487Z" agent="5.0 (Macintosh)" etag="wLwUZo_cP7_rAAVYI_Af" version="16.2.2" type="github">
+  <diagram id="3hM9E8iuQy6S7kzIFPU3" name="Page-1">
+    <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="110" y="210" width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jn4E8vbAiMcVLO-UyMmI-1" vertex="1">
+          <mxGeometry width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-3" value="Environmental management" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="jn4E8vbAiMcVLO-UyMmI-2" vertex="1">
+          <mxGeometry width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-4" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="110" y="250" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jn4E8vbAiMcVLO-UyMmI-4" vertex="1">
+          <mxGeometry width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-6" value="How to protect against hot or cold weather conditions?" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="jn4E8vbAiMcVLO-UyMmI-5" vertex="1">
+          <mxGeometry width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-7" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="110" y="290" width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-8" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jn4E8vbAiMcVLO-UyMmI-7" vertex="1">
+          <mxGeometry width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="jn4E8vbAiMcVLO-UyMmI-8" vertex="1">
+          <mxGeometry width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-10" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="470" y="250" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-11" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jn4E8vbAiMcVLO-UyMmI-10" vertex="1">
+          <mxGeometry width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-12" value="Acceptable temprature range" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="jn4E8vbAiMcVLO-UyMmI-11" vertex="1">
+          <mxGeometry width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-13" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="470" y="290" width="420" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jn4E8vbAiMcVLO-UyMmI-13" vertex="1">
+          <mxGeometry width="420" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jn4E8vbAiMcVLO-UyMmI-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="jn4E8vbAiMcVLO-UyMmI-14" vertex="1">
+          <mxGeometry width="420" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

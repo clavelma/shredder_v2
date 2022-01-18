@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" modified="2022-01-07T09:53:06.636Z" agent="5.0 (Macintosh)" etag="VtNRVFAZvSk-LIasZsGM" version="16.2.2" type="github">
+  <diagram id="nSUky03wP_geeJo8E0sn" name="Page-1">
+    <mxGraphModel dx="2013" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-4" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="-800" y="-1060" width="1710" height="386" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="g2rxZFlYXXOEhxONH8Ov-4" vertex="1">
+          <mxGeometry width="1710" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-7" value="Description of machine tools " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-5" vertex="1">
+          <mxGeometry width="301" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="zCwbj56SeMaT4v7JTLCO-1" value="Image or link of video of machine tools" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-5" vertex="1">
+          <mxGeometry x="301" width="229" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-8" value="Description of other common manufacturing tools " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-5" vertex="1">
+          <mxGeometry x="530" width="339" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="zCwbj56SeMaT4v7JTLCO-7" value="Image or link of video of common manufacturing tools" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-5" vertex="1">
+          <mxGeometry x="869" width="232" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-9" value="Description of finishing" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-5" vertex="1">
+          <mxGeometry x="1101" width="399" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-123" value="Image or link of video of finishing" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-5" vertex="1">
+          <mxGeometry x="1500" width="210" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-14" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="g2rxZFlYXXOEhxONH8Ov-4" vertex="1">
+          <mxGeometry y="53" width="1710" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-16" value="&lt;div align=&quot;left&quot;&gt;Milling machine &lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt; uses a &lt;b&gt;milling&lt;/b&gt; cutter to remove material from the surface of a &lt;b&gt;work&lt;/b&gt; piece&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="g2rxZFlYXXOEhxONH8Ov-14" vertex="1">
+          <mxGeometry width="301" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="zCwbj56SeMaT4v7JTLCO-2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="g2rxZFlYXXOEhxONH8Ov-14" vertex="1">
+          <mxGeometry x="301" width="229" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-17" value="&lt;div align=&quot;left&quot;&gt;&lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;&lt;b&gt;Fused Deposition Modeling&amp;nbsp; &lt;/b&gt;&lt;/span&gt;&lt;/span&gt;(&lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;FDM) &lt;/span&gt;&lt;/span&gt;3D priniting &lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;FDM works by extruding &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;thermoplastics, such as ABS, PLA, through a heated nozzle, melting the &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;material and applying the plastic layer by layer to a build platform&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="g2rxZFlYXXOEhxONH8Ov-14" vertex="1">
+          <mxGeometry x="530" width="339" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="zCwbj56SeMaT4v7JTLCO-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="g2rxZFlYXXOEhxONH8Ov-14" vertex="1">
+          <mxGeometry x="869" width="232" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-18" value="&lt;div align=&quot;justify&quot;&gt;Gap filling: Small gaps and voids can easily be filled with epoxy (like XTC-3D), and may not require additional processing. Large gaps, or hollows left from &lt;br&gt;joining a multi-print assembly, can be successfully filled with autobody filler which will require additional sanding once dry. &lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="g2rxZFlYXXOEhxONH8Ov-14" vertex="1">
+          <mxGeometry x="1101" width="399" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-124" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-14" vertex="1">
+          <mxGeometry x="1500" width="210" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-23" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="g2rxZFlYXXOEhxONH8Ov-4" vertex="1">
+          <mxGeometry y="170" width="1710" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-23" vertex="1">
+          <mxGeometry width="301" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="zCwbj56SeMaT4v7JTLCO-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-23" vertex="1">
+          <mxGeometry x="301" width="229" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-23" vertex="1">
+          <mxGeometry x="530" width="339" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="zCwbj56SeMaT4v7JTLCO-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-23" vertex="1">
+          <mxGeometry x="869" width="232" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-23" vertex="1">
+          <mxGeometry x="1101" width="399" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-125" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-23" vertex="1">
+          <mxGeometry x="1500" width="210" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-32" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="g2rxZFlYXXOEhxONH8Ov-4" vertex="1">
+          <mxGeometry y="223" width="1710" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-32" vertex="1">
+          <mxGeometry width="301" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="zCwbj56SeMaT4v7JTLCO-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-32" vertex="1">
+          <mxGeometry x="301" width="229" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-35" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-32" vertex="1">
+          <mxGeometry x="530" width="339" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="zCwbj56SeMaT4v7JTLCO-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-32" vertex="1">
+          <mxGeometry x="869" width="232" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-36" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-32" vertex="1">
+          <mxGeometry x="1101" width="399" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-126" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-32" vertex="1">
+          <mxGeometry x="1500" width="210" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-41" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="g2rxZFlYXXOEhxONH8Ov-4" vertex="1">
+          <mxGeometry y="280" width="1710" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-43" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-41" vertex="1">
+          <mxGeometry width="301" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="zCwbj56SeMaT4v7JTLCO-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-41" vertex="1">
+          <mxGeometry x="301" width="229" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-44" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-41" vertex="1">
+          <mxGeometry x="530" width="339" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="zCwbj56SeMaT4v7JTLCO-11" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-41" vertex="1">
+          <mxGeometry x="869" width="232" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-41" vertex="1">
+          <mxGeometry x="1101" width="399" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-127" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-41" vertex="1">
+          <mxGeometry x="1500" width="210" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-50" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="g2rxZFlYXXOEhxONH8Ov-4" vertex="1">
+          <mxGeometry y="333" width="1710" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-52" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-50" vertex="1">
+          <mxGeometry width="301" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="zCwbj56SeMaT4v7JTLCO-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-50" vertex="1">
+          <mxGeometry x="301" width="229" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-53" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-50" vertex="1">
+          <mxGeometry x="530" width="339" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="zCwbj56SeMaT4v7JTLCO-12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-50" vertex="1">
+          <mxGeometry x="869" width="232" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-50" vertex="1">
+          <mxGeometry x="1101" width="399" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-128" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="g2rxZFlYXXOEhxONH8Ov-50" vertex="1">
+          <mxGeometry x="1500" width="210" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="g2rxZFlYXXOEhxONH8Ov-102" value="&lt;b&gt;Type of machine used and technologies&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-800" y="-1100" width="1710" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

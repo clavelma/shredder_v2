@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" modified="2022-01-07T09:28:20.880Z" agent="5.0 (Macintosh)" etag="hf-CYg7yb21L5iSVupVX" version="16.2.2" type="github">
+  <diagram id="P9Uurger7CA0uye5NVtA" name="Page-1">
+    <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="avaKX5EeBfz0DVWXv85b-1" value="Architectural structure " style="swimlane;html=1;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;resizable=0;containerType=tree;" parent="1" vertex="1">
+          <mxGeometry x="310" y="240" width="870" height="282" as="geometry" />
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-2" value="&lt;b&gt;Hradware&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
+          <mxGeometry x="387.5" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-3" value="Component 1" style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
+          <mxGeometry x="95" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="avaKX5EeBfz0DVWXv85b-1" source="avaKX5EeBfz0DVWXv85b-2" target="avaKX5EeBfz0DVWXv85b-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-5" value="Component 2" style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
+          <mxGeometry x="390" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="avaKX5EeBfz0DVWXv85b-1" source="avaKX5EeBfz0DVWXv85b-2" target="avaKX5EeBfz0DVWXv85b-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="avaKX5EeBfz0DVWXv85b-1" source="avaKX5EeBfz0DVWXv85b-3" target="avaKX5EeBfz0DVWXv85b-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2112" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-8" value="Sub-component 1.1 " style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
+          <mxGeometry x="20" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="avaKX5EeBfz0DVWXv85b-1" source="avaKX5EeBfz0DVWXv85b-3" target="avaKX5EeBfz0DVWXv85b-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2112" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-10" value="Sub-component 1.2 " style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
+          <mxGeometry x="160" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="avaKX5EeBfz0DVWXv85b-1" source="avaKX5EeBfz0DVWXv85b-5" target="avaKX5EeBfz0DVWXv85b-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1944" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-12" value="Sub-component 2.1&amp;nbsp; " style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
+          <mxGeometry x="310" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="avaKX5EeBfz0DVWXv85b-1" source="avaKX5EeBfz0DVWXv85b-5" target="avaKX5EeBfz0DVWXv85b-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1944" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-14" value="Sub-component 2.2" style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
+          <mxGeometry x="460" y="220" width="110" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="avaKX5EeBfz0DVWXv85b-1" source="avaKX5EeBfz0DVWXv85b-2" target="avaKX5EeBfz0DVWXv85b-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-970" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-16" value="Component 3" style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
+          <mxGeometry x="680" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="avaKX5EeBfz0DVWXv85b-1" source="avaKX5EeBfz0DVWXv85b-16" target="avaKX5EeBfz0DVWXv85b-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-522" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-18" value="Sub-component 3.1" style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
+          <mxGeometry x="610" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=0;" parent="avaKX5EeBfz0DVWXv85b-1" source="avaKX5EeBfz0DVWXv85b-16" target="avaKX5EeBfz0DVWXv85b-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369.5" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avaKX5EeBfz0DVWXv85b-20" value="Sub-component 3.2" style="whiteSpace=wrap;html=1;" parent="avaKX5EeBfz0DVWXv85b-1" vertex="1">
+          <mxGeometry x="750" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
