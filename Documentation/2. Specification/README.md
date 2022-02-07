@@ -5,100 +5,55 @@
 ## **How to document the specifications?** 
   
 ## **1. Stakeholders:**
-<details>
-  <summary>Click to see the guideline!</summary>
-  
-- **Definition:** *Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.*
-
-- **Comments:**
-
-  - *A stakeholder is not necessarily a person (e.g. considering airports as a stakeholder when designing a two-deck aircraft).*
-  - *A stakeholder can indirectly affect the product (e.g. considering neighborhood when designing a nuclear power plant).*
-  - *A stakeholder can indirectly be affected by the product (e.g. considering the local biodiversity when designing an airport).*
- </details>
- 
-  <details>
-    <summary>Click to see the example!</summary>
-  
-  ```
-  What does contain the minimum documentation of the stakeholders? 
-  
-  Example of the ADD-ONS project of XYZ cargo
-  
-  - Specify the name of potential stakeholdrs 
-    - Environmental activist
-    - Repairmen
-    - Food producer
-    - Transporter
-    - Health care (street medic, ...)
-    - Makers
-    - Craftmen
-    - Other potential user
-  ```
-#### *Project of the [XYZ Cargo-ADD ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*
-*The image below shows the stakeholders of  ADD-ONS of XYZ cargo as a graph*
-
-  ![Image of stakeholder of ADD-ONS of XYZ cargo](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholders%20of%20XYZ%20cargo%20ADD-ONS.jpg)
-  
-<a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fstakeholders.png">Edit in diagrams.net</a>
-</details>
 
 ### Template of stakeholders
   
-   * Stakeholder name 1
-   * ...
-
-  ![Image of template of stakeholder diagram](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20diagram%20for%20template.jpg)
-            
+   * Clients
+   * Users
+   * Partners
+   * Media
+   * European standards
+   * Environment
+  
+  ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20diagram%20for%20template.jpg)
+  
   *The link below can be used to define the stakeholders of your project/product.*
   
   <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.png">Edit in diagrams.net</a>
   
 ## **2. External interfaces**
-<details>
-  <summary>Click to see the guideline!</summary>
-  
-- **Definition:**  *External interfaces are interactions between the product and the stakeholders.*
-
-- **Comments:**
-  - *An interface is made of a port (in, out, or in-out)*
-  - *An interface is made of a flow (matter, energy, or signal)*
-</details>
- <details>
-  <summary>Click to see the example!</summary>
-   
- ```
-What does contain the minimum documentation of the external interfaces? 
-
-Example XYZ Cargo ADD-ONS
-
-  - Identify the interactions between food producer and the product including 
-    - Specify needs
-    - Uses
-    
-  - Identify the interactions between maker and the product inculding  
-    - repair
-      - unmount 
-    - make
-    - reproduce
-    - modify
-  - ...
-  ```
 
 *The image below shows the external interfaces of  ADD-ONS of XYZ cargo as a graph*
 
-![Image of External interfaces of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20of%20XYZ%20Cargo%20ADD-ONS.jpg)
+![Image of External interfaces of XYZ cargo-ADD ONS](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20of%20XYZ%20Cargo%20ADD-ONS.jpg)
 
 <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.drawio">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FExternal%20interfaces.png">Edit in diagrams.net</a>
 </details>
 
 ### Template of external interfaces
    
-   * Stakeholder name 1
-       * Flow 1
-       * ...
- 
- ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20for%20template.jpg)
+   * Clients
+       * needs
+   * Users
+       * use
+       * repaire
+   * Partners
+       * data
+       * technical support
+   * Media
+       * reproduce
+       * data
+   * European standards
+       * laws
+       * norms
+       * security
+   * Environment
+       * supply
+       * adapt
+       * reuse
+       * technical support
+  
+ ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/External%20interfaces%20for%20template.jpg)
   
    *The link below can be used to define the external interfaces of your project/product.*
   
@@ -142,85 +97,43 @@ Example XYZ Cargo ADD-ONS
 
 ### Template of services
   
-   * Services to stakeholder 1
-       * Service 1.1
-       * ...
+   * Services to clients
+       * The shredder shall enable the ABS&PLA plastic from 3D printing scraps to be reduce into big or medium chips
+       * The shredder shall enable the thermoformable plastic from thermoformable plastic plate scraps to be reduce into big or medium chips
+   * Services to users
+       * The shredder shall enable the plastic from user's personal collect to be reduce into big or medium chips
+   * Services to partners
+       *  The shredder shall enable the plastic from partner's personal collect to be reduce into big or medium chips
+   * Services to media
+       * x
+   * Services to european standards
+       * x 
+   * Services to environment
+       * x 
 
 ## 4. Constraint *(Synonyms: non function requirement)*
-<details>
-  <summary>Click to see the guideline!</summary>
-  
-- **Definition:**  *A constraint is a choice that makes certain designs "not allowed" or inappropriate for their intended use.*
-
-- **Comments:**
-
-  - *The constraint is a restriction, limit, or regulation imposed on a product.*
-  - *There are two kinds of constraints: input constraints and system constraints.* 
-    - *Input constraints are imposed as part of the design specifications.*
-    - *System constraints are constraints imposed by the system in which the design solution must function.*
- </details> 
- 
- <details>
-  <summary>Click to see the example!</summary>
-  
-   ```
-  What does contain the minimum documentation of the constraints?
-  
-  Example XYZ Cargo ADD-ONS, constraints for maker of ADD-ONS
-  
-   - User should be able to dismantle ADD-ONS with a maximum one wrench and one screwdriver 
-   - Users should be able to customize the modules of ADD-ONS to fit their use. 
-   - The ADD-ONS should enable the users to do the assembly of components in a short time (10 minutes) and the maker shall select the resistance material for using ADD-ONS in different weather conditions. 
-   - ADD-ONS should be dismantled for recycling purposes.
-   - ...
-
-  ```
-</details>
 
 ### Template of constraints
   
-   * Constraint 1
-   * ...
+   * The shredder should be dismantled for recycling purposes
+   * The shredder should be realise and operate in a low tech philosophy
+   * The shredder should follow the european standards
+   * Open source community should be able to reproduce it
+   * User should be able to use it in security
+   * Ginova should be able to handle the maintenance
+   * The shredder should be incorporating in Ginova
+   * The shredder should be able to shred the plastic from the collect
+   * The shredder should be built using the maximum of the existing prototype
+   * The shredder assembly and user should be accessible and open source
+   * The shredder should be realised thanks to the RAFU network facility
+   * The shredder should be able to go forward and to go backward
      
   
 ## **5. Requirement**
-
-<details>
-  <summary>Click to see the guideline!</summary>
-  
-- **Definition:** *A requirement is a formal statement that specifies when condition C is true, property P of object O is actual and its value shall belong  to domain D.*
-
-- **Comments:**
-  -  *The minimum set of independent requirements can completely characterize the needs of the product in the functional domain.*
-  -  *Functional requirements describe qualitatively the system functions or tasks to be performed in operation.* 
-  -  *Requirement can state as follows: The [stakeholder] need [Property] [object] [Action verb]  at [Condition]* 
- </details>
- 
- <details>
-  <summary>Click to see the example!</summary>
-  
-  ```
-  Example of the functional requirement that ADD-ONS of XYZ cargo provides for the food producers, as a stakeholder, to preserve the quality of food.
- 
-  In this example, we assumed a refrigerator on the ADD-ONS could help the food producers to cool down and preserve the temperature of food. 
-  
-  So, we defined some  functional requirements (FR) based on this assumption that consist:
- 
-    - FR1: To maintain the quality of food, the food producer needs to main the material at cold temperature (between 3 °C and 10 °C) for short-term preservation (3h) or long-term preservation (24h).
-    - FR2: ADD-ONS shall fix the internal ADD-ONS temperature for 7 °C.
-    - FR3: To create a cold ambient in the cooling down system, the ADD-ONS shall compress the low temperature and pressured gas to start the cooling cycle.
-    - FR4: the cooling down system shall control the pressure of exit hot gas 
-    - FR5: the hot and pressured exit gas needs to meet the cooler external ambient temperature to become a liquid.
-    - ...
-    
-  ```
- </details>
  
  ### Template of requirements
     
-   * Requirement 1
-   * ...
- 
-
-
-
+   * FR1: The shredder need to work on a standard 220V 50Hz EU plug
+   * FR2: The shredder need to respect the 1m50x1mx1m50 maximum volume
+   * FR3: The shredder need to shredd plastic into chips with a surface inferior to 1cm²
+   * FR4: The shredder need to stop in case of emergency in less than 3 secondes
