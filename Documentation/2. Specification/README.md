@@ -6,20 +6,8 @@
   
 ## **1. Stakeholders:**
 
-### Template of stakeholders
-  
-   * Clients
-   * Users
-   * Partners
-   * Media
-   * European standards
-   * Environment
-  
-  ![Image of stakeholder diagram for template](https://github.com/OPEN-NEXT/wp2.3_Guideline-for-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20diagram%20for%20template.jpg)
-  
-  *The link below can be used to define the stakeholders of your project/product.*
-  
-  <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholder%20diagram%20for%20template.png">Edit in diagrams.net</a>
+![stakeholders_shredder drawio](https://user-images.githubusercontent.com/95290174/152964940-641c68a4-78e5-4441-ad8c-f626bcd7d0b1.png)
+
   
 ## **2. External interfaces**
 
