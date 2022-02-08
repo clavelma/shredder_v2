@@ -31,11 +31,9 @@
   ```
 </details>
 
-<details>
-  <summary>Click to see the example!</summary>
- 
-  
 ![fonctions_shredder drawio](https://user-images.githubusercontent.com/95290174/152968842-cb1d98a4-7c1d-4cad-9cd9-5535bff4fddc.png)
+
+  
 
   
  2. Name of modeling language
