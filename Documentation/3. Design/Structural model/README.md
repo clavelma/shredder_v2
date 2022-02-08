@@ -1,6 +1,9 @@
 # **Structural model**
 
-*I would like to enable makers to understand the physical structure of the product and its components.* 
+
+![272839175_1317634475371760_8302128982550272044_n](https://user-images.githubusercontent.com/95290174/152989835-24c38d77-8cbb-4f05-a73a-fbf42928a32e.png)
+
+
 
 ## **What is a structural model?**
 <details>
