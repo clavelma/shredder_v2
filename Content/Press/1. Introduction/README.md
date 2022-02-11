@@ -162,6 +162,7 @@ Who is sponsoring your project?
        * Role in the project: Organisation, gantt chart manager
        * https://www.linkedin.com/in/margaux-lenne-27981b208/
    * WILLIE Nsongurua Innocent {nsongurua-innocent.willie@grenoble-inp.org}
+       * Role in the project: Project advancement manager
        * https://www.linkedin.com/in/nsongurua-willie-3b72781b5
 #### 9. Licence
    * GPLv3
