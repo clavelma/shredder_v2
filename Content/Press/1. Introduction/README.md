@@ -125,10 +125,10 @@ Who is sponsoring your project?
 ### Template of introduction
 
  #### 1. Motivation
-   * The team has chosen to to work on recycling plastic waste during a school project. All the teams members are enthousiast by the idea.
+   * The team has chosen to to work on recycling plastic waste during a school project. All the teams members are enthusiastic about this idea.
 
  #### 2. Goal
-   * Provide a thecnical and organisational solution tho recycle plastic waste. For this project the plastic essentially comes from 3D printing part.
+   * Provide a tecnical and organisational solution to recycle plastic waste. For this project the plastic essentially comes from 3D printing part.
 
  #### 3. History
    * Initiators of the original project: Guillaume Marin
