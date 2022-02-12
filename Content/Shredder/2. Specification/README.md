@@ -24,7 +24,7 @@
        * needs
    * Users
        * use
-       * repaire
+       * repair
    * Partners
        * data
        * technical support
@@ -86,18 +86,18 @@
 ### Template of services
   
    * Services to clients
-       * The shredder shall enable the ABS&PLA plastic from 3D printing scraps to be reduce into big or medium chips
-       * The shredder shall enable the thermoformable plastic from thermoformable plastic plate scraps to be reduce into big or medium chips
+       * The shredder shall enable the ABS&PLA plastic from 3D printing scraps to be reduce into medium or small chips.
+       * The shredder shall enable the thermoformable plastic from thermoformable plastic plate scraps to be reduce into medium or small chips.
    * Services to users
-       * The shredder shall enable the plastic from user's personal collect to be reduce into big or medium chips
+       * The shredder shall enable the plastic from user's personal collection to be reduce into medium or small chips.
    * Services to partners
-       *  The shredder shall enable the plastic from partner's personal collect to be reduce into big or medium chips
+       * The shredder shall enable the plastic from partner's personal collect to be reduce into medium or small chips.
    * Services to media
-       * x
+       * The shredder will serve as a functional example of low tech solution for plastic recycling.
    * Services to european standards
-       * x 
+       * The shredder will meet the safety and working standard conditions based on european standards. 
    * Services to environment
-       * x 
+       * The shredder in all ramifications, will be safe to use and environmental friendly.
 
 ## 4. Constraint *(Synonyms: non function requirement)*
 
