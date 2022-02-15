@@ -129,5 +129,6 @@
    * FR6: The shredder needs to have a power-on and/or operation indication that the operator can see
    * FR7: The shredder must not exceed the maximum accepted noise level
    * FR8: The shredder should not exceed a certain vibration level
+   * FR9: The shredder needs to have a reverse function in case of blocking or any other mechanical problem
    
 #The effects of vibration can be severe. Unchecked vibration can accelerate rates of wear (e.g., reduce bearing life) and damage equipment. Vibrating machinery can create noise, cause safety problems and lead to degradation in plant working conditions.
