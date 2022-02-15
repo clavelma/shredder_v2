@@ -121,7 +121,11 @@
  
  ### Template of requirements
     
-   * FR1: The shredder need to work on a standard 220V 50Hz EU plug
-   * FR2: The shredder need to respect the 1m50x1mx1m50 maximum volume
-   * FR3: The shredder need to shredd plastic into chips with a surface inferior to 1cm²
-   * FR4: The shredder need to stop in case of emergency in less than 3 secondes
+   * FR1: The compactor needs to work on a standard 220V 50Hz EU plug
+   * FR2: The compactor needs to be able to melt PLA (175°C)
+   * FR3: The compactor needs to compact plastic plates with a thickness of 1.6, 2.5 and 3.2 mm
+   * FR4: The compactor needs to filter the toxic air
+   * FR5: The compactor needs to be isolated
+   * FR6: The compactor needs to be safe for the operator (heat)
+   * FR7: The compactor needs to have a power-on and/or operation indication that the operator can see
+   * FR8: The compactor should have a thermometer (to set the temperature)
