@@ -121,11 +121,13 @@
  
  ### Template of requirements
     
-   * FR1: The compactor needs to work on a standard 220V 50Hz EU plug
-   * FR2: The compactor needs to be able to melt PLA (175°C)
-   * FR3: The compactor needs to compact plastic plates with a thickness of 1.6, 2.5 and 3.2 mm
-   * FR4: The compactor needs to filter the toxic air
-   * FR5: The compactor needs to be isolated
-   * FR6: The compactor needs to be safe for the operator (heat)
-   * FR7: The compactor needs to have a power-on and/or operation indication that the operator can see
-   * FR8: The compactor should have a thermometer (to set the temperature)
+   * FR1: The shredder needs to work on a standard 220V 50Hz EU plug
+   * FR2: The shredder needs to respect the 1m50x1mx1m50 maximum volume
+   * FR3: The shredder needs to shred plastic into chips with a surface inferior to 1cm²
+   * FR4: The shredder needs to stop in case of emergency in less than 3 seconds
+   * FR5: The shredder must be secured to prevent injury on contact (against moving parts and projectiles)
+   * FR6: The shredder needs to have a power-on and/or operation indication that the operator can see
+   * FR7: The shredder must not exceed the maximum accepted noise level
+   * FR8: The shredder should not exceed a certain vibration level
+   
+#The effects of vibration can be severe. Unchecked vibration can accelerate rates of wear (e.g., reduce bearing life) and damage equipment. Vibrating machinery can create noise, cause safety problems and lead to degradation in plant working conditions.
