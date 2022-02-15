@@ -153,16 +153,16 @@ Who is sponsoring your project?
        * Role in the project: Project manager
        * https://www.linkedin.com/in/tom-bianciotto-b9ba4b1b8
    * CLAVEL Maxime {maxime.clavel@grenoble-inp.org}
-       * Role in the project: Electronic and Systems Engineering manager 
+       * Role in the project: Data manager
        * https://www.linkedin.com/in/maxime-clavel-36a43a218
    * GASTON Louis {louis.gaston@grenoble-inp.org}
-       * Role in the project: Data manager
    * LEGARDEUR William {william.legardeur@grenoble-inp.org}
    * LENNE Margaux {margaux.lenne@grenoble-inp.org}
        * Role in the project: Organisation, gantt chart manager
        * https://www.linkedin.com/in/margaux-lenne-27981b208/
    * WILLIE Nsongurua Innocent {nsongurua-innocent.willie@grenoble-inp.org}
        * https://www.linkedin.com/in/nsongurua-willie-3b72781b5
+       * Role in the project: Organisation, Advancement manager
 #### 9. Licence
    * GPLv3
 #### 10. Sponsors and partners
