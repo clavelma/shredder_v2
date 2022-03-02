@@ -30,7 +30,7 @@ mechanical design, automation, industrial programming, etc.
 
 ## History
 
-*Here it is welcome to acknowledge the existing sources that have been used in this project with locations*
+*Here it is of neccessity to acknowledge the existing sources that have been used in this project with locations*
 
 - Initiators of the original project
 - URL of the original project
@@ -64,7 +64,7 @@ And inside each of the sections, if required:
 
 ## Required skills
 
-*What is the specific knowledge a maker shall own to reuse - with or without modification - your product??*
+*What is the specific knowledge a maker should own to reuse - with or without modification - your product??*
 
 For example:
   
@@ -125,10 +125,10 @@ Who is sponsoring your project?
 ### Template of introduction
 
  #### 1. Motivation
-   * The team has chosen to to work on recycling plastic waste during a school project. All the teams members are enthousiast by the idea.
+   * The team has chosen to work on recycling plastic waste during a school project. All the teams members are enthusiastic about the idea.
 
  #### 2. Goal
-   * Provide a thecnical and organisational solution tho recycle plastic waste. For this project the plastic essentially comes from 3D printing part.
+   * Provide a technical and organisational solution to recycle plastic waste. For this project the plastic essentially comes from 3D printing part.
 
  #### 3. History
    * Initiators of the original project: Guillaume Marin
@@ -143,11 +143,11 @@ Who is sponsoring your project?
    * Section 7: Maintenance
    * Section 8: Disposal
  #### 5. Required skills
-   * The project echopen need basic knowledge about electrical connection, ...
+   * The project plastic recycling machine needs basic knowledge about electrical connection, ...
  #### 6. Contribution process
    * ...
  #### 7. Last update
-   * 09/12/2021, 14h, addition of information, Margaux
+   * 01/3/2022, 14h, Edited, Nsongurua
  #### 8. Project team
    * BIANCIOTTO Tom {tom.bianciotto@grenoble-inp.org}
        * Role in the project: Project manager
@@ -162,6 +162,7 @@ Who is sponsoring your project?
        * Role in the project: Organisation, gantt chart manager
        * https://www.linkedin.com/in/margaux-lenne-27981b208/
    * WILLIE Nsongurua Innocent {nsongurua-innocent.willie@grenoble-inp.org}
+       * Role in the project: Progress manager
        * https://www.linkedin.com/in/nsongurua-willie-3b72781b5
 #### 9. Licence
    * GPLv3
