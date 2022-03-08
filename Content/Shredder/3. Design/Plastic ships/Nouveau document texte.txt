@@ -1,0 +1,11 @@
+Il existe plusieurs niveaux de broyage, et les équipements à utiliser dépendent du niveau souhaité.
+
+Le concassage : il permet d'obtenir des particules de taille inférieure au cm, et est souvent utilisé en pré-broyage. Il se subdivise en concassage primaire, secondaire, tertiaire et quaternaire. Ce dernier est assimilable au broyage grossier.
+
+Le broyage grossier : il permet d'obtenir des particules de l'ordre du mm.
+
+Le broyage fin : les particules obtenues varient de 10 à quelques centaines de micromètres.
+
+Le broyage ultra-fin : il est peu utilisé et n'est nécessaire que pour certains types de recyclage, très spécifiques.
+
+Dans notre cas, nous voulons faire du broyage grossier puisque les copeaux subiront par la suite un 2ème broyage avec un autre broyeur permetytant de faire du broyage fin. Toutefois, sa trémi étant assez petite, un pré-broyage est nécessaire.
