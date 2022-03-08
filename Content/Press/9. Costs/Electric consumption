@@ -1,0 +1,4 @@
+On average, this furnace consumes 1kWh (worst case).
+We assume that at the beginning, the oven will be used for 2h/d for 261d/year (working days).
+The price per kWh in France is on average 0.1893€ (subscription + consumption).
+This means an annual cost of about 99€ (= 0.1893*2*261*1).
