@@ -131,4 +131,5 @@
    * FR8:  The shredder should not transform one of the labs and fablabs of the RAFU network into a storage place for all the plastic chips.
    * FR9:  The shredder needs to have a reverse function in case of blocking or any other mechanical problem
    * FR10: The shredder and its installation should be stable and strong.
-#The effects of vibration can be severe. Unchecked vibration can accelerate rates of wear (e.g., reduce bearing life) and damage equipment. Vibrating machinery can create noise, cause safety problems and lead to degradation in plant working conditions.
+
+(The effects of vibration can be severe. Unchecked vibration can accelerate rates of wear (e.g., reduce bearing life) and damage equipment. Vibrating machinery can create noise, cause safety problems and lead to degradation in plant working conditions.)
