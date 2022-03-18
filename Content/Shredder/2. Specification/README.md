@@ -121,14 +121,14 @@
  
  ### Template of requirements
     
-   * FR1: The shredder needs to work on a standard 220V 50Hz EU plug
-   * FR2: The shredder needs to respect the 1m50x1mx1m50 maximum volume
-   * FR3: The shredder needs to shred plastic into chips with a surface inferior to 1cm²
-   * FR4: The shredder needs to stop in case of emergency in less than 3 seconds
-   * FR5: The shredder must be secured to prevent injury on contact (against moving parts and projectiles)
-   * FR6: The shredder needs to have a power-on and/or operation indication that the operator can see
-   * FR7: The shredder must not exceed the maximum accepted noise level
-   * FR8: The shredder should not exceed a certain vibration level
-   * FR9: The shredder needs to have a reverse function in case of blocking or any other mechanical problem
-   
+   * FR1:  The shredder needs to work on a standard 220V 50Hz EU plug
+   * FR2:  The shredder needs to respect the 1m50x1mx1m50 maximum volume
+   * FR3:  The shredder needs to shred plastic into chips with a surface inferior to 1cm²
+   * FR4:  The shredder needs to stop in case of emergency in less than 3 seconds
+   * FR5:  The shredder must be secured to prevent injury on contact (against moving parts and projectiles)
+   * FR6:  The shredder needs to have a power-on and/or operation indication that the operator can see
+   * FR7:  The shredder must not exceed the maximum accepted noise level
+   * FR8:  The shredder should not transform one of the labs and fablabs of the RAFU network into a storage place for all the plastic chips.
+   * FR9:  The shredder needs to have a reverse function in case of blocking or any other mechanical problem
+   * FR10: The shredder and its installation should be stable and strong.
 #The effects of vibration can be severe. Unchecked vibration can accelerate rates of wear (e.g., reduce bearing life) and damage equipment. Vibrating machinery can create noise, cause safety problems and lead to degradation in plant working conditions.
